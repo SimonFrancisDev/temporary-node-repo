@@ -1,0 +1,3 @@
+The result is: Hello welcome to node js, 
+what are you looking for 
+i guess you want to read me., Hello i was created newly todayHello i was created newly today during node lessonHello i was created newly today during node lesson
